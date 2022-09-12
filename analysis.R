@@ -1,6 +1,7 @@
 x <- seq(1, 10 , len=1)
 y=40*2 + rnorm(10,0,5)
 plot(x,y)
+mean(x)
 #branching in collaboration
 #leave the main stream of the analysis to work and play without impacting what 
 #you were originally doing but you can bring it back when you're satisfied that
